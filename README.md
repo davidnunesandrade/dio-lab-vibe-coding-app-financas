@@ -1,4 +1,5 @@
-PRD Completo – App de Organização de Finanças Pessoais Conversacional
+PRD Completo – App de Organização de Finanças Pessoais Conversacional 
+
 Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.
 A proposta é oferecer uma experiência simples, natural e acessível, sem depender de formulários complexos ou planilhas manuais. O app deve atuar como um assistente financeiro conversacional, capaz de entender linguagem natural e oferecer recomendações personalizadas.
