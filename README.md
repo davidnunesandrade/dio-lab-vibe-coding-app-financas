@@ -62,3 +62,27 @@ Coleta de feedback sobre usabilidade e clareza das dicas.
 Ajustes rápidos antes de expandir funcionalidades.
 
 O conteúdo deve ser apresentado em tom educativo, com linguagem acessível em português, para que qualquer pessoa compreenda facilmente.
+
+
+------------------------
+INTERACOES COM O LOVABLE
+
+Gerar um plano de MVP com:
+
+Principais telas do aplicativo (chat, relatórios, metas, dicas, configurações).
+
+Recursos técnicos necessários para funcionamento inicial (chatbot, categorização automática, relatórios básicos).
+
+Estratégia de validação com usuários:
+
+Testes com grupo piloto de iniciantes.
+
+Coleta de feedback sobre usabilidade e clareza das dicas.
+
+Ajustes rápidos antes de expandir funcionalidades.
+
+O conteúdo deve ser apresentado em tom educativo, com linguagem acessível em português, para que qualquer pessoa compreenda facilmente. 
+
+----> PRD <----
+
+
