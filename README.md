@@ -85,4 +85,44 @@ O conteúdo deve ser apresentado em tom educativo, com linguagem acessível em p
 
 ----> PRD <----
 
+------> site: https://lovable.dev/projects/ef3e7598-916c-4b1a-861c-bc0a5ad49f50
 
+<img width="1569" height="981" alt="image" src="https://github.com/user-attachments/assets/5c845dbd-e25b-4922-825b-ec25f706d201" />
+
+<img width="516" height="738" alt="image" src="https://github.com/user-attachments/assets/abc02673-b66a-4b74-9946-e51dcfd99862" />
+
+<img width="518" height="774" alt="image" src="https://github.com/user-attachments/assets/e7dea48e-aeb5-4192-8c3f-53bb93634659" />
+
+-----------
+RESUMO DO QUE O APP FAZ
+
+O MVP do FinBot
+
+✅5 Telas principais:
+
+Chat - Interface conversacional para registrar gastos em linguagem natural
+Relatórios - Gráficos de pizza e barras com resumo financeiro
+Metas - Acompanhamento visual de objetivos financeiros
+Dicas - Cards educativos sobre finanças pessoais
+Configurações - Perfil, preferências e segurança
+Recursos técnicos:
+
+✨ Chatbot com processamento de linguagem natural básico
+🏷️ Categorização automática de gastos (alimentação, transporte, lazer, etc.)
+📊 Relatórios visuais com Recharts
+🎯 Sistema de metas com progresso visual
+💡 Trilha de aprendizado financeiro
+Design:
+
+Paleta verde-menta (confiança financeira)
+Animações suaves
+Interface mobile-first
+
+----------------------
+REFLEXAO
+
+O PRD funciona muito bem para trazer a clareza do do vai ser desenvolvido e evitar buracos durante o desenvolvimento. Ainda o que é bom, é que conseguimos depois gerar a partir do PRD um documento de QA, assim conseguimos ver se tudo foi desenvolvido ou nao.
+
+O que nao funcionou bem, é que o PRD nem sempre esa no nivel de regras de negocio, codigos e nem estava prevendo modelo de dados, entao ainda sim temos que gerar mais documentos complementares
+
+Conversar com IA sempre foi um desafio em termos de criacao do prompt, de trazer para ela a clareza do que esta querendo, pois nem sempre ela sabe tudo que estamos pensando, entao temos que de fato mastigar e detalhar o que queremos.
